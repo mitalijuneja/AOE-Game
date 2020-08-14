@@ -3,7 +3,6 @@ Fall 2019, Art of Engineering Common Project **Stacks Arduino game**
 
 Stacks was featured on Columbia Engineering's Instagram Story
 
-![Stacks image]
-(https://github.com/mitalijuneja/AOE-Game/blob/master/AOE%20Game.JPG)
+![image of Stacks](https://github.com/mitalijuneja/AOE-Game/blob/master/AOE%20Game.JPG?raw=true)
 
 
